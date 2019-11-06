@@ -15,11 +15,26 @@
   color: black;
   font-weight: bold;
   font-size: 18px;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 .alignlegend {
   margin-left: 5%;
   font-weight: bold;
   color: black;
+}
+
+/* .background {
+  background-image: "lightbluebackground.jpg";
+} */
+
+.pagetwofonthtag {
+  opacity: 0.75;
+  color: navy;
+}
+
+.pagetwofontptag {
+  opacity: 0.75;
+  color: black;
+  font-weight: bold;
 }
